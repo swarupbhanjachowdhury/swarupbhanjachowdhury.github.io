@@ -89,9 +89,9 @@ let footer = $(`
     <div class="row">
       <div class="col-lg-7 col-md-10 pt-5" >
       <div class="col-sm-6 col-md-5"> 
-        <a class="webintern-footer-logo" href="#">
+        <!--<a class="webintern-footer-logo" href="#">
           <center><img src="assets/images/John-Doe1.pn" alt="< Swarup >"style="width: 200px;"/></center>
-        </a>
+        </a>-->
         <div class="simple-text text-center dark padding-sm">
           <p >
             "Develop a passion for learning. If you do, you will never cease to grow."
